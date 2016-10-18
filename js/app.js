@@ -369,7 +369,7 @@
         break;
       }
     }
-    if (clickedPoint && clickedPoint.name == 'M') {
+    if (clickedPoint) {
       deltaAngle = Math.PI / 3;
     }
   });
